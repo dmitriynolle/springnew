@@ -17,7 +17,7 @@ public class ProductController {
         this.productService = productService;
     }
 
-    @RequestMapping(path="/allproducts", method=RequestMethod.GET)
+    @RequestMapping(path="/products", method=RequestMethod.GET)
     @ResponseBody
     public List<Product> getAllProducts(){
         return productService.getAllProducts();
