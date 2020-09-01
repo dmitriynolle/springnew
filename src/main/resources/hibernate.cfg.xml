@@ -7,7 +7,7 @@
         <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
         <property name="connection.url">jdbc:mysql://localhost:3306/springl3?allowPublicKeyRetrieval=true&amp;useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF-8</property>
         <property name="connection.username">root</property>
-        <property name="connection.password">D24i17m83A</property>
+        <property name="connection.password">password1!</property>
 
         <property name="connection.pool_size">1</property>
 
