@@ -3,7 +3,6 @@ package com.spring.entities;
 import lombok.Data;
 
 import javax.persistence.*;
-import java.util.Date;
 
 @Entity
 @Table(name = "products")
